@@ -273,7 +273,7 @@ require (
 )
 
 require (
-	github.com/spf13/cobra v1.8.0 // @grafana/grafana-app-platform-squad
+	github.com/spf13/cobra v1.10.2 // @grafana/grafana-app-platform-squad
 	go.opentelemetry.io/otel v1.21.0 // @grafana/backend-platform
 	k8s.io/apimachinery v0.29.0 // @grafana/grafana-app-platform-squad
 	k8s.io/apiserver v0.29.0 // @grafana/grafana-app-platform-squad
@@ -311,7 +311,7 @@ require (
 	github.com/cockroachdb/logtags v0.0.0-20211118104740-dabe8e521a4f // indirect
 	github.com/cockroachdb/redact v1.1.3 // indirect
 	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.3 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
 	github.com/cristalhq/jwt/v4 v4.0.2 // indirect
 	github.com/dave/jennifer v1.5.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -383,7 +383,7 @@ require (
 	github.com/spf13/afero v1.9.2 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
-	github.com/spf13/pflag v1.0.5 // @grafana-app-platform-squad
+	github.com/spf13/pflag v1.0.9 // @grafana-app-platform-squad
 	github.com/stoewer/go-strcase v1.3.0 // indirect
 	github.com/subosito/gotenv v1.4.1 // indirect
 	github.com/unknwon/bra v0.0.0-20200517080246-1e3013ecaff8 // indirect
